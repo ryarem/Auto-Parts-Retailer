@@ -17,6 +17,7 @@ Git practice
 Change from main branch
 Change from conflict branch
 Rebase practice from main
+Feature work for rebase
 Another change in main
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
