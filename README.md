@@ -17,6 +17,7 @@ Git practice
 Change from main branch
 Change from conflict branch
 Rebase practice from main
+Another change in main
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
