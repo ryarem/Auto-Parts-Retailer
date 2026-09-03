@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="Inventory Dashboard">
+        <div class="slds-p-around_medium">
+            <lightning-input
+                type="search"
+                label="Search by Part Number or Category"
+                onchange={handleSearch}>
+            </lightning-input>
+            <div class="slds-m-top_medium">
+                <lightning-datatable
+                    key-field="Id"
+                    data={data}
+                    columns={columns}>
+                </lightning-datatable>
+            </div>
+        </div>
+    </lightning-card>
+</template>

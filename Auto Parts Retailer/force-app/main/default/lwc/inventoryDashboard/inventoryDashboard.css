@@ -1,0 +1,7 @@
+.row-red {
+    background-color: #ffe5e5;
+}
+
+td.row-amber > div {
+    color: #fff4d6;
+}
